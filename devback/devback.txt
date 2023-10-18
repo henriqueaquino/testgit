@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 devback1
+=======
+devback2
+>>>>>>> devback2
